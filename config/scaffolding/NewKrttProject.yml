@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: NewKrttProject
+  gitServerName: krt
+  gitUrl: https://github.com/Kruthika-K-IBM
+  gitUsername: Kruthika-K-IBM
+  gitBranch: main
